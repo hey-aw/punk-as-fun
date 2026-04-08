@@ -30,7 +30,7 @@ The built output uses a site URL env var instead of hardcoded canonical and site
 ## Launch checks
 
 - Verify `https://secure.helloalma.com/providers/mary-kima-dolson/` still works.
-- Confirm `mary@marydolsonlcsw.com` is the right public email.
+- Confirm `mary@punkasfun.org` is the right public email.
 - Confirm `SITE_URL` or the Vercel system env resolves to the intended production base URL.
 - Submit a live consultation request test through Alma.
 - Check that `robots.txt`, `sitemap.xml`, and social preview assets load on production.
