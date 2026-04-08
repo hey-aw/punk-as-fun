@@ -13,8 +13,6 @@ const watchFiles = [
   "robots.txt",
   "sitemap.xml",
   "mary-hero.png",
-  "mary-in-chair-lettering.png",
-  "mary-hero.svg",
   "favicon.svg",
   "social-share.svg",
 ];
