@@ -1,0 +1,25 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#FAFAF8"/>
+  <rect x="48" y="48" width="1104" height="534" rx="32" fill="#ECEFFE"/>
+  <circle cx="977" cy="130" r="54" fill="#D8E0FF"/>
+  <rect x="92" y="92" width="598" height="446" rx="24" fill="#FFFDF8"/>
+  <text x="140" y="200" fill="#6C7298" font-family="Sora, Arial, sans-serif" font-size="24" letter-spacing="4">MARY DOLSON, LCSW</text>
+  <text x="140" y="290" fill="#1A1A2E" font-family="Georgia, 'Times New Roman', serif" font-size="66">Somatic, trauma-informed</text>
+  <text x="140" y="365" fill="#1A1A2E" font-family="Georgia, 'Times New Roman', serif" font-size="66">therapy for adults</text>
+  <text x="140" y="442" fill="#5A5A7A" font-family="Sora, Arial, sans-serif" font-size="28">Telehealth statewide in Oregon and in-person near Portland.</text>
+  <rect x="140" y="470" width="280" height="54" rx="27" fill="#3D4A8F"/>
+  <text x="175" y="505" fill="white" font-family="Sora, Arial, sans-serif" font-size="24">Book via Alma</text>
+  <g transform="translate(765 110)">
+    <rect width="290" height="370" rx="28" fill="#DDE6FF"/>
+    <rect x="46" y="172" width="112" height="108" rx="18" fill="#F8E6D6"/>
+    <rect x="56" y="182" width="92" height="90" rx="12" fill="#FFF7EF"/>
+    <path d="M76 226C76 205.013 93.0132 188 114 188C134.987 188 152 205.013 152 226V272H76V226Z" fill="#7C90C5"/>
+    <path d="M95 186C95 165.565 111.565 149 132 149H136C156.435 149 173 165.565 173 186V254H95V186Z" fill="#5B7FA6"/>
+    <circle cx="140" cy="148" r="27" fill="#F3C7A8"/>
+    <path d="M181 138C181 113.699 161.301 94 137 94H131C106.699 94 87 113.699 87 138V143H181V138Z" fill="#1A1A2E"/>
+    <rect x="150" y="181" width="14" height="58" rx="7" transform="rotate(-18 150 181)" fill="#F3C7A8"/>
+    <rect x="154" y="192" width="66" height="86" rx="8" transform="rotate(-18 154 192)" fill="#3D4A8F"/>
+    <rect x="161" y="200" width="54" height="72" rx="7" transform="rotate(-18 161 200)" fill="#FFFDF8"/>
+    <path d="M79 271H191L212 359H100L79 271Z" fill="#6E83B7"/>
+  </g>
+</svg>
