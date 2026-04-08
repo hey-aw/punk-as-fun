@@ -15,8 +15,6 @@ const templateFiles = [
 
 const assetFiles = [
   "mary-hero.png",
-  "mary-in-chair-lettering.png",
-  "mary-hero.svg",
   "favicon.svg",
   "social-share.svg",
 ];
